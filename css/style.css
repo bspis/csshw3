@@ -47,7 +47,7 @@ header p {
 
 #hero-image {
     background-image: linear-gradient(#2a7b9b, #57c785, #eddd53);
-    background-image: url("/images/night.jpg");
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Lofoten%2C_Norway_%28Unsplash%29.jpg/640px-Lofoten%2C_Norway_%28Unsplash%29.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -343,3 +343,4 @@ footer {
     bottom: 0px;
 
 }
+
